@@ -3,7 +3,7 @@ Parse data from Json using the Retrofit Api , Complete code for parsing data usi
 
 ## APi used in code..
 
-[http://www.bhimsoft.com/alquran/data/quran.json](http://www.bhimsoft.com/alquran/data/quran.json "APi link")
+![http://www.bhimsoft.com/alquran/data/quran.json](http://www.bhimsoft.com/alquran/data/quran.json "APi link")
 
 ### Data get
 
