@@ -5,6 +5,8 @@ Parse data from Json using the Retrofit Api , Complete code for parsing data usi
 
 <a href="http://www.bhimsoft.com/alquran/data/quran.json" target="_blank">http://www.bhimsoft.com/alquran/data/quran.json</a>
 
+[click here](http://www.bhimsoft.com/alquran/data/quran.json "APi link")
+
 ### Data get
 
 <img src="https://github.com/WaseemAftab/Retrofit-JsonParsing/blob/master/images/Screenshot%20(108).png" />
